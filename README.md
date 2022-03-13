@@ -10,20 +10,10 @@
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 
 <br><br>
-##
-
-<div>
-  <br>
-  
 - 🔭 I’m currently working on Data Science 
 - 🌱 I’m currently learning Artificial Intelligence
 - 💬 Ask me about Computer Vision
 - 📫 How to reach me: singapavankalyanreddy60@gmail.com
-  <br>
-</div>
-
-<div>
-
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
