@@ -10,10 +10,15 @@
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 
 <br><br>
-- 🔭 I’m currently working on Data Science 
-- 🌱 I’m currently learning Artificial Intelligence
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: singapavankalyanreddy60@gmail.com
+  
+  
+  
+-🔭 I’m currently working on Data Science 
+-🌱 I’m currently learning Artificial Intelligence
+-💬 Ask me about Computer Vision
+-📫 How to reach me: singapavankalyanreddy60@gmail.com
+  
+  
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
@@ -40,7 +45,6 @@
 
 ![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
@@ -52,9 +56,7 @@
   
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
