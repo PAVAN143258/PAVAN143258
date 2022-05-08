@@ -11,12 +11,10 @@
 
 <br><br>
   
-  
-  
-- 🔭 I’m currently working on Data Science 
-- 🌱 I’m currently learning Artificial Intelligence
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: singapavankalyanreddy60@gmail.com
+-  🔭 I’m currently working on Data Science 
+-  🌱 I’m currently learning Artificial Intelligence
+-  💬 Ask me about Computer Vision
+-  📫 How to reach me: singapavankalyanreddy60@gmail.com
   
   
 ##
