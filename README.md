@@ -1,7 +1,6 @@
 
-<body bgcolor="green">
 # Hey Everyone! I'm [pavan](https://github.com/PAVAN143258) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-<br><br>
+<br><hr> <font color="white"><i><marquee bgcolor="green">Hii Everone</marquee></font></i><hr><br>
 
 <a href="https://www.linkedin.com/in/shinga-pavan-kalyan-reddy-8b23621bb/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -68,4 +67,4 @@
 PAVAN143258/PAVAN143258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  </body>
+  
