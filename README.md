@@ -8,7 +8,7 @@
 </a>
 <a href="https://github.com/PAVAN143258">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-  <img src="https://www.youtube.com/" width="10" height="10" border="1" align="right">
+  <a href="https://www.youtube.com/"><img src="https://th.bing.com/th/id/R.b068a8b70d490df4d504a328efe8fabd?rik=uvfIk1Hb5InuHA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-1kV3I1wIOj4%2fTbce3PQr3jI%2fAAAAAAAABAQ%2fn-qyPmZwI18%2fs1600%2fyoutube-logo.jpg&ehk=VtiNkZxCij1o0hkJ%2fPRHSRjwUQrKkYWBP7v99gk4B1Q%3d&risl=&pid=ImgRaw&r=0" width="10" height="10" border="1" align="right"></a>
 
 <br><br>
   
