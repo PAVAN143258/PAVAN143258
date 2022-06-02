@@ -8,6 +8,7 @@
 </a>
 <a href="https://github.com/PAVAN143258">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img src="https://www.youtube.com/" width="10" height="10" border="1" align="right">
 
 <br><br>
   
