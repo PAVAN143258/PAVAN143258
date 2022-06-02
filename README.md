@@ -3,14 +3,12 @@
 <br><br>
 <hr>
 <a href="https://www.linkedin.com/in/shinga-pavan-kalyan-reddy-8b23621bb/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
- 
-  <a href="https://www.youtube.com/channel/UC9_upGOOaz1mvRFHO1FXfUg"><img src="https://th.bing.com/th/id/R.b068a8b70d490df4d504a328efe8fabd?rik=uvfIk1Hb5InuHA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-1kV3I1wIOj4%2fTbce3PQr3jI%2fAAAAAAAABAQ%2fn-qyPmZwI18%2fs1600%2fyoutube-logo.jpg&ehk=VtiNkZxCij1o0hkJ%2fPRHSRjwUQrKkYWBP7v99gk4B1Q%3d&risl=&pid=ImgRaw&r=0" width="100" height="25" border="1"></a>
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+ <a href="https://www.youtube.com/channel/UC9_upGOOaz1mvRFHO1FXfUg"><img src="https://th.bing.com/th/id/R.b068a8b70d490df4d504a328efe8fabd?rik=uvfIk1Hb5InuHA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-1kV3I1wIOj4%2fTbce3PQr3jI%2fAAAAAAAABAQ%2fn-qyPmZwI18%2fs1600%2fyoutube-logo.jpg&ehk=VtiNkZxCij1o0hkJ%2fPRHSRjwUQrKkYWBP7v99gk4B1Q%3d&risl=&pid=ImgRaw&r=0" width="100" height="25" border="1"></a>
   <a href=""><img src="https://th.bing.com/th/id/OIP.Go2CQNhF_49tkKcpEl_sHQHaHZ?pid=ImgDet&rs=1" width="100" height="25" border="2"></a>
   <a href="https://twitter.com/ReddyShinga"><img src="https://th.bing.com/th/id/R.fb6ca24911710c6cc8355e4e1a574fc2?rik=erOGCNR4oREMXA&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f06%2fLogo-Twitter.jpg&ehk=CWjaAxmMAN774TK9cjhZMOaDU96b7oh4srAScg5nOf0%3d&risl=&pid=ImgRaw&r=0" width="100" height="25" border="2"></a>
             
-                             
+<hr>                             
 
 <br><br>
   
