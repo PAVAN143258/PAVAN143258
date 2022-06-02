@@ -8,7 +8,7 @@
 </a>
 <a href="https://github.com/PAVAN143258">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-  <a href="https://www.youtube.com/channel/UC9_upGOOaz1mvRFHO1FXfUg"><img src="https://th.bing.com/th/id/R.b068a8b70d490df4d504a328efe8fabd?rik=uvfIk1Hb5InuHA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-1kV3I1wIOj4%2fTbce3PQr3jI%2fAAAAAAAABAQ%2fn-qyPmZwI18%2fs1600%2fyoutube-logo.jpg&ehk=VtiNkZxCij1o0hkJ%2fPRHSRjwUQrKkYWBP7v99gk4B1Q%3d&risl=&pid=ImgRaw&r=0" width="20" height="20" border="1" align="right"></a>
+  <a href="https://www.youtube.com/channel/UC9_upGOOaz1mvRFHO1FXfUg"><img src="https://th.bing.com/th/id/R.b068a8b70d490df4d504a328efe8fabd?rik=uvfIk1Hb5InuHA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-1kV3I1wIOj4%2fTbce3PQr3jI%2fAAAAAAAABAQ%2fn-qyPmZwI18%2fs1600%2fyoutube-logo.jpg&ehk=VtiNkZxCij1o0hkJ%2fPRHSRjwUQrKkYWBP7v99gk4B1Q%3d&risl=&pid=ImgRaw&r=0" width="100" height="25" border="1" align="right"></a>
 
 <br><br>
   
