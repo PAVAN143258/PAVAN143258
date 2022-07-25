@@ -2,7 +2,7 @@
 # Hey Everyone! I'm [pavan](https://github.com/PAVAN143258) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 <hr>
-<a href="https://github.com/PAVAN143258"><img src="[https://th.bing.com/th/id/OIP.EgSPriuEnAtlIWJV8R_E1QHaGs?pid=ImgDet&rs=1](https://i.ytimg.com/vi/NP_5LHuZTo8/maxresdefault.jpg)" width="100" height="50" border="3"></a>
+<a href="https://github.com/PAVAN143258"><img src=["https://th.bing.com/th/id/OIP.EgSPriuEnAtlIWJV8R_E1QHaGs?pid=ImgDet&rs=1](https://i.ytimg.com/vi/NP_5LHuZTo8/maxresdefault.jpg)" width="100" height="50" border="3"></a>
 <a href="https://www.linkedin.com/in/shinga-pavan-kalyan-reddy-8b23621bb/">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" width="100" height=50" border="1"/></a>
  <a href="https://www.youtube.com/channel/UC9_upGOOaz1mvRFHO1FXfUg"><img src="https://th.bing.com/th/id/R.b068a8b70d490df4d504a328efe8fabd?rik=uvfIk1Hb5InuHA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-1kV3I1wIOj4%2fTbce3PQr3jI%2fAAAAAAAABAQ%2fn-qyPmZwI18%2fs1600%2fyoutube-logo.jpg&ehk=VtiNkZxCij1o0hkJ%2fPRHSRjwUQrKkYWBP7v99gk4B1Q%3d&risl=&pid=ImgRaw&r=0" width="100" height="50" border="1"></a>
