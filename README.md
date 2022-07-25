@@ -9,7 +9,7 @@
   <a href=""><img src="https://th.bing.com/th/id/OIP.Go2CQNhF_49tkKcpEl_sHQHaHZ?pid=ImgDet&rs=1" width="100" height="50" border="2"></a>
   <a href="https://twitter.com/ReddyShinga"><img src="https://th.bing.com/th/id/R.fb6ca24911710c6cc8355e4e1a574fc2?rik=erOGCNR4oREMXA&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f06%2fLogo-Twitter.jpg&ehk=CWjaAxmMAN774TK9cjhZMOaDU96b7oh4srAScg5nOf0%3d&risl=&pid=ImgRaw&r=0" width="100" height="50" border="2"></a>
 <a href="https://leetcode.com/Pavan143258/"><img src="https://th.bing.com/th/id/OIP.5sfi252DgFWnuwUNHhwlXwAAAA?w=130&h=150&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="100" height="50" border="1"</a>
-<a href="https://www.hackerearth.com/@shingapavan"><img src="![image](https://user-images.githubusercontent.com/93095434/171688018-9283eb6d-7e26-48e3-9aa5-cca6e895b3a3.png)" border="2" width="100" height="50"></a>
+<a href="https://www.hackerearth.com/@shingapavan"><img src="![image](https://www.tosscall.com/post/765be46eea4e4fe23487b87ab0ef6b8d07.jpg)" border="2" width="100" height="50"></a>
 <a href="https://www.hackerrank.com/19121a03d2"><img src="https://th.bing.com/th/id/OIP.MZlO5kI4BIOrIDoyfZe6egHaIL?pid=ImgDet&rs=1" width="100" height="50"></a>
             
 <hr>                             
