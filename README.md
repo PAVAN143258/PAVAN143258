@@ -77,22 +77,4 @@ You can click the Preview link to take a look at your changes.
     <div class="learnworlds-section-content js-learnworlds-section-content full-width">
         <div class="col span_12_of_12-all standalone">
             <div class="lw-cols one-row one-row-tl one-row-tp one-row-sl one-row-sp main align-items-stretch js-same-content-wrapper" data-node-type="columnWrapper" id="el_1656697208709_1761">
-                <div class="col span_12_of_12-all flex-item standalone js-lw-flexible-wrapper js-same-content-child" data-node-type="column" id="el_1656697208709_1762">
-                    
-                    
-                    
-
-
-
-                    
-                    
-                    
-                    
-<h2 class="learnworlds-subheading learnworlds-subheading-normal learnworlds-element" data-magic="title" data-node-type="text" id="el_1656697208709_1763"></h2>
-
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+                <div class="col span_12_of_12-all flex-item standalone js-lw-flexible-wrapper js-same-content-child" data-node-type="column" id="el_1656697208709_1762"> <h2 class="learnworlds-subheading learnworlds-subheading-normal learnworlds-element" data-magic="title" data-node-type="text" id="el_1656697208709_1763"></h2>
