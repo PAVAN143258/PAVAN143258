@@ -69,3 +69,30 @@ PAVAN143258/PAVAN143258 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
   
+
+
+<section class="js-learnworlds-section learnworlds-section lw-light-bg stretched-bg learnworlds-size-normal learnworlds-align-center js-change-image-node" data-section-id="tpl114" data-magic="background-image" id="section_1656697208709_1764" style="background-image: url(&quot;https://lwfiles.mycourse.app/ybifoundation-public/b2ff93698d46503aa19d615a52408138.png&quot;);">
+    <div class="js-video-wrapper" style="display: none;"></div>
+    <div class="learnworlds-section-overlay lw-light-bg js-learnworlds-overlay" style="display: none;"></div>
+    <div class="learnworlds-section-content js-learnworlds-section-content full-width">
+        <div class="col span_12_of_12-all standalone">
+            <div class="lw-cols one-row one-row-tl one-row-tp one-row-sl one-row-sp main align-items-stretch js-same-content-wrapper" data-node-type="columnWrapper" id="el_1656697208709_1761">
+                <div class="col span_12_of_12-all flex-item standalone js-lw-flexible-wrapper js-same-content-child" data-node-type="column" id="el_1656697208709_1762">
+                    
+                    
+                    
+
+
+
+                    
+                    
+                    
+                    
+<h2 class="learnworlds-subheading learnworlds-subheading-normal learnworlds-element" data-magic="title" data-node-type="text" id="el_1656697208709_1763"></h2>
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
