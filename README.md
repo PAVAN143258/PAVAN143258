@@ -22,59 +22,8 @@
   
 ##
 <h1><b><samp>Skills and Languages</samp></b></h1>
-
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-
-
-<span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="100"/>
-
-  </span>
-
-<h1><b><samp>Tools and Platform</samp></b></h1>
-
-![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
-  
-<span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="80"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="100"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="80"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="80"/>
-</span>
-<hr> 
-<!---
-PAVAN143258/PAVAN143258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-  
-
-
-<section class="js-learnworlds-section learnworlds-section lw-light-bg stretched-bg learnworlds-size-normal learnworlds-align-center js-change-image-node" data-section-id="tpl114" data-magic="background-image" id="section_1656697208709_1764" style="background-image: url(&quot;https://lwfiles.mycourse.app/ybifoundation-public/b2ff93698d46503aa19d615a52408138.png&quot;);">
-    <div class="js-video-wrapper" style="display: none;"></div>
-    <div class="learnworlds-section-overlay lw-light-bg js-learnworlds-overlay" style="display: none;"></div>
-    <div class="learnworlds-section-content js-learnworlds-section-content full-width">
-        <div class="col span_12_of_12-all standalone">
-            <div class="lw-cols one-row one-row-tl one-row-tp one-row-sl one-row-sp main align-items-stretch js-same-content-wrapper" data-node-type="columnWrapper" id="el_1656697208709_1761">
-                <div class="col span_12_of_12-all flex-item standalone js-lw-flexible-wrapper js-same-content-child" data-node-type="column" id="el_1656697208709_1762"> <h2 class="learnworlds-subheading learnworlds-subheading-normal learnworlds-element" data-magic="title" data-node-type="text" id="el_1656697208709_1763"></h2>
+-  Programming languages: Python
+-  Knowledge on cloud: Microsoft Azure
+-  Machine Learning 
+-  Data Science
+-  Deep Learning- Computer Vision , NLP
